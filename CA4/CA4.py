@@ -80,7 +80,6 @@ xgb_param_grid = {
     'classifier__learning_rate': [0.001, 0.01, 0.1],
     'classifier__max_depth': [3, 5, 7],
     'classifier__subsample': [0.7],
-    'classifier__min_samples_split': [10],
     'classifier__gamma': [0, 3, 5, 10],
     'classifier__reg_lambda': [0, 3, 5, 10],
 }
